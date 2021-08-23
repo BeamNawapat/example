@@ -16,6 +16,8 @@ some code. How do you copy this repository to Github?
    $ git push --set-upstream <Remote> <Branch>
    ```
 
-
+3. Next time (git knows your default upstream) just type:
+   ```
+   git push
+   ```
 ### Git Branches
-
