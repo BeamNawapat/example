@@ -15,3 +15,7 @@ some code. How do you copy this repository to Github?
    ```
    $ git push --set-upstream <Remote> <Branch>
    ```
+
+
+### Git Branches
+
